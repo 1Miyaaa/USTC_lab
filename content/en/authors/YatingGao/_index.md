@@ -1,4 +1,4 @@
----
+![image](https://github.com/1Miyaaa/USTC_lab/assets/126668341/1be69a73-6de1-42f9-93c6-62ea4337041d)---
 # Display name
 title: Yating Gao
 weight: 93
@@ -19,7 +19,7 @@ organizations:
 bio: 
 
 interests:
-- Artificial Intelligence
+- Millimeter Wave Sensing
 
 education:
   courses:
